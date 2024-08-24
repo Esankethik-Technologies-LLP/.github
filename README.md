@@ -1,4 +1,3 @@
-# .github
 # Esankethik Technologies LLP
 
 Welcome to the official GitHub page of Esankethik Technologies LLP!
